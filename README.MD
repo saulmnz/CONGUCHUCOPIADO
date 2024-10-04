@@ -10,3 +10,5 @@ Continuamos con las pruebas
 AAAAAAAAAAAAAAAAAAAAAAhola
 
 Este es otro commit hecho con IntelliJ
+
+![peter griffin](img/imagen2.jpg)
