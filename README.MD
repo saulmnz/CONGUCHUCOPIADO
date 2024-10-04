@@ -2,3 +2,4 @@
 
 ## Vamos a probar el control de versiones de IntelliJ
 
+![imagen conguchu](img/conguchu%20logo.jpg)
